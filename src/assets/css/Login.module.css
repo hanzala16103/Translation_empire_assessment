@@ -1,0 +1,32 @@
+.loginCard {
+    margin-top: 20px;
+  }
+  
+  .loginImage {
+    width: 100%;
+    height: auto;
+  }
+  
+  .inputContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+  }
+  
+  .inputIcon {
+    margin-right: 5px;
+    margin-bottom: 24px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .signupText {
+    margin-top: 16px;
+    text-align: center;
+  }
+  .submitButton {
+    padding: 10px 30px;
+    font-size: 14px;
+}
